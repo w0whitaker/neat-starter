@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![](/static/img/icon.svg)
+
 # This is a Heading h1
 
 ## This is a Heading h2
